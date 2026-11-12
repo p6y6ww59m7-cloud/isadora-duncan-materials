@@ -1,0 +1,1392 @@
+{
+  "scenes": [
+    {
+      "id": 1,
+      "title": "赤脚登台与人物身份",
+      "script": "脱下一双鞋，她改写了舞蹈史。一百多年前，一个女人光着脚，穿着宽松的古希腊风格服饰登台，就曾引来非议。她就是后来被称为“现代舞之母”的，伊莎多拉·邓肯。",
+      "photos": [
+        "PB",
+        "PG",
+        "P97",
+        "P13",
+        "PC"
+      ],
+      "videos": [
+        211,
+        123,
+        213,
+        224,
+        7
+      ],
+      "shots": [
+        "A96",
+        "A104",
+        "A97",
+        "A100",
+        "A219"
+      ],
+      "texts": [
+        [
+          "她以赤脚、轻薄长衣的表演方式挑战当时的观演习惯。",
+          "B",
+          [
+            "赤脚",
+            "轻薄衣服",
+            "引发非议"
+          ]
+        ],
+        [
+          "“现代舞之母”是常见称谓；也可表述为现代舞的重要先驱。",
+          "U",
+          [
+            "伊莎多拉·邓肯",
+            "重要先驱",
+            "现代舞"
+          ]
+        ],
+        [
+          "她在《未来的舞蹈》中以人的双脚谈自然与表达。",
+          "A96",
+          [
+            "双脚",
+            "自然运动",
+            "身体表达"
+          ]
+        ],
+        [
+          "人物档案记述她以简单、自然的动作追寻人的精神表达。",
+          "I",
+          [
+            "自然动作",
+            "音乐感受",
+            "精神表达"
+          ]
+        ],
+        [
+          "她主张让舞蹈摆脱束缚，恢复自由的身体节奏。",
+          "A219",
+          [
+            "身体",
+            "自由节奏",
+            "舞蹈探索"
+          ]
+        ]
+      ],
+      "notes": "视频全是后人／学生舞团演绎；可以展示风格，不能配成“邓肯本人登台录像”。“脱下一双鞋”是概括性开场，不是已查证的某次现场脱鞋事件。"
+    },
+    {
+      "id": 2,
+      "title": "在芭蕾体系之外寻找表达",
+      "script": "但让她留在舞蹈史上的，还有脱下舞鞋之后，所做的探索。当时，芭蕾已经拥有成熟的动作体系。邓肯尝试在这套体系之外，寻找自己的表达方式。",
+      "photos": [
+        "PA",
+        "P79",
+        "P43",
+        "PG",
+        "P259"
+      ],
+      "videos": [
+        123,
+        211,
+        209,
+        7,
+        224
+      ],
+      "shots": [
+        "M39",
+        "M101",
+        "A97",
+        "A105",
+        "A209"
+      ],
+      "texts": [
+        [
+          "芭蕾已经有脚位、外开、转与跳等训练词汇。",
+          "BA",
+          [
+            "脚位与外开",
+            "转与跳",
+            "成熟训练"
+          ]
+        ],
+        [
+          "她在自传中记下对早期芭蕾课程的不满。",
+          "M39",
+          [
+            "童年学舞",
+            "提出质疑",
+            "另寻表达"
+          ]
+        ],
+        [
+          "她长时间探索从身体内部发起动作的方法。",
+          "M101",
+          [
+            "静立与感受",
+            "动作起点",
+            "身体运动"
+          ]
+        ],
+        [
+          "她认为每个人应发展适合自己身体的动作。",
+          "A105",
+          [
+            "个体身体",
+            "自然动作",
+            "自己的表达"
+          ]
+        ],
+        [
+          "她强调舞蹈需要表达生活与情绪。",
+          "A209",
+          [
+            "生活",
+            "情绪",
+            "舞蹈"
+          ]
+        ]
+      ],
+      "notes": "1938年《天鹅湖》照片只是芭蕾背景。邓肯对芭蕾的批评是其个人主张，不能转述为“芭蕾没有情感”。"
+    },
+    {
+      "id": 3,
+      "title": "海浪与古希腊艺术",
+      "script": "她观察海浪怎样起伏，去博物馆研究古希腊艺术中的身体。",
+      "photos": [
+        "PL",
+        "P405",
+        "P415",
+        "PM",
+        "PE"
+      ],
+      "videos": [
+        209,
+        213,
+        114,
+        212,
+        123
+      ],
+      "shots": [
+        "M24",
+        "M77",
+        "A100",
+        "A117",
+        "A147"
+      ],
+      "texts": [
+        [
+          "她自述最初的动作与舞蹈想法来自海浪的节奏。",
+          "M24",
+          [
+            "海浪节奏",
+            "动作感受",
+            "舞蹈灵感"
+          ]
+        ],
+        [
+          "她和兄长研究希腊瓶画、浮雕，并尝试以动作回应。",
+          "M77",
+          [
+            "瓶画与浮雕",
+            "观察姿态",
+            "动作尝试"
+          ]
+        ],
+        [
+          "她把古希腊身体形态与自然运动联系起来。",
+          "A100",
+          [
+            "身体形态",
+            "自然",
+            "希腊艺术"
+          ]
+        ],
+        [
+          "她在文章中反复讨论波浪式运动。",
+          "A117",
+          [
+            "波浪",
+            "连续变化",
+            "运动节奏"
+          ]
+        ],
+        [
+          "她从瓶画中寻找一个动作延续为下一个动作的线索。",
+          "A147",
+          [
+            "瓶画线条",
+            "一个动作",
+            "下一个动作"
+          ]
+        ]
+      ],
+      "notes": "大都会的青铜舞者是古希腊艺术背景，不是“她亲自研究的那件文物”。帕特农照片年代按各馆图注标示。"
+    },
+    {
+      "id": 4,
+      "title": "奔跑、跳跃与身体语言",
+      "script": "她赤脚奔跑、跳跃，让手臂和躯干像波浪一样舒展，让身体感受地面的重量。这些看似你我都熟知的动作，被她发展成了一种独特的舞蹈语言。",
+      "photos": [
+        "PB",
+        "PL",
+        "PG",
+        "P259",
+        "PS"
+      ],
+      "videos": [
+        209,
+        211,
+        116,
+        7,
+        179
+      ],
+      "shots": [
+        "A97",
+        "A104",
+        "A117",
+        "A127",
+        "A147"
+      ],
+      "texts": [
+        [
+          "她的抒情舞蹈以手臂和身体的流动起伏著称。",
+          "D",
+          [
+            "手臂",
+            "躯干",
+            "起伏舒展"
+          ]
+        ],
+        [
+          "她重视身体重量与重力，而非抹去它们。",
+          "I",
+          [
+            "身体重量",
+            "地面",
+            "重力"
+          ]
+        ],
+        [
+          "她从自然中的运动寻找舞蹈素材。",
+          "A127",
+          [
+            "风与海浪",
+            "自然运动",
+            "动作材料"
+          ]
+        ],
+        [
+          "跳跃也应使运动继续发展，而不是只留下一个姿势。",
+          "A147",
+          [
+            "跳跃",
+            "连续性",
+            "下一动作"
+          ]
+        ],
+        [
+          "赤脚接触大地在她的文字中具有明确的意义。",
+          "A104",
+          [
+            "赤脚",
+            "触地",
+            "自然联系"
+          ]
+        ]
+      ],
+      "notes": "视频按“足底、躯干、手臂、连续运动”选镜；这里提供作品定位，没有虚构逐秒镜头时间。"
+    },
+    {
+      "id": 5,
+      "title": "动作承载内心与舞蹈史地位",
+      "script": "在她的舞蹈里，一次伸展、一次俯身，都可以承载人的内心。她的探索，为现代舞的形成开辟了一条重要道路。",
+      "photos": [
+        "P13",
+        "P259",
+        "PS",
+        "PB",
+        "PG"
+      ],
+      "videos": [
+        115,
+        133,
+        123,
+        209,
+        211
+      ],
+      "shots": [
+        "M101",
+        "A157",
+        "A187",
+        "A209",
+        "A219"
+      ],
+      "texts": [
+        [
+          "她把身体运动视为内心表达的媒介。",
+          "M101",
+          [
+            "内心",
+            "身体运动",
+            "表达"
+          ]
+        ],
+        [
+          "在《Depth》中，动作由内在情绪的节奏推动。",
+          "A157",
+          [
+            "内在情绪",
+            "节奏",
+            "动作展开"
+          ]
+        ],
+        [
+          "她将动作语言与心灵表达联系在一起。",
+          "A187",
+          [
+            "动作语言",
+            "身体",
+            "心灵"
+          ]
+        ],
+        [
+          "华盛顿大学将她列为舞蹈史的重要革新者。",
+          "U",
+          [
+            "个人探索",
+            "舞蹈革新",
+            "历史影响"
+          ]
+        ],
+        [
+          "“重要道路”比“她独自发明现代舞”更符合多位先驱并存的历史。",
+          "D",
+          [
+            "邓肯",
+            "其他先驱",
+            "现代舞形成"
+          ]
+        ]
+      ],
+      "notes": "“一次伸展、一次俯身”是对表达能力的概括。不要把某一姿势机械解释成唯一情绪。"
+    },
+    {
+      "id": 6,
+      "title": "1902年布达佩斯的成功",
+      "script": "1902年，她在布达佩斯的演出座无虚席。这种曾引发争议的舞蹈，在此刻赢得了观众的掌声。",
+      "photos": [
+        "P37",
+        "P43",
+        "PL",
+        "PB",
+        "P97"
+      ],
+      "videos": [
+        211,
+        7,
+        123,
+        213,
+        224
+      ],
+      "shots": [
+        "M124",
+        "M125",
+        "M126",
+        "M132",
+        "M101"
+      ],
+      "texts": [
+        [
+          "基金会传记记载：1902年布达佩斯演出取得成功。",
+          "F",
+          [
+            "1902",
+            "布达佩斯",
+            "演出成功"
+          ]
+        ],
+        [
+          "自传记下在Urania Theatre演出三十晚的合约。",
+          "M124",
+          [
+            "Urania Theatre",
+            "合约",
+            "三十晚"
+          ]
+        ],
+        [
+          "她自述连续三十晚面对满座观众跳舞。",
+          "M125",
+          [
+            "三十晚",
+            "满座",
+            "自传记述"
+          ]
+        ],
+        [
+          "她记述观众起立，并要求重复《蓝色多瑙河》华尔兹。",
+          "M126",
+          [
+            "蓝色多瑙河",
+            "观众起立",
+            "重复加演"
+          ]
+        ],
+        [
+          "她也记下布达佩斯演出使观众落泪的经历。",
+          "M132",
+          [
+            "舞蹈",
+            "情感反应",
+            "观众"
+          ]
+        ]
+      ],
+      "notes": "目前未找到经可靠来源确认的1902年演出录像或当晚现场照片。此段5条视频均为舞台风格替代画面；M101仅作探索背景，不作满座证据。"
+    },
+    {
+      "id": 7,
+      "title": "1913年的失去",
+      "script": "而后来，舞蹈也承载了她生命里最难以言说的失去。1913年，她的两个孩子和保姆，在一场汽车坠河事故中丧生。一个母亲，同时失去了两个孩子。这样的悲痛，要怎样说出口？",
+      "photos": [
+        "P335",
+        "P235",
+        "P285",
+        "P245",
+        "P295"
+      ],
+      "videos": [
+        115,
+        133,
+        219,
+        14,
+        50
+      ],
+      "shots": [
+        "M21",
+        "M328",
+        "M329",
+        "M330",
+        "M332"
+      ],
+      "texts": [
+        [
+          "1913年，两个孩子和保姆在汽车坠入塞纳河的事故中丧生。",
+          "F",
+          [
+            "1913",
+            "汽车坠河",
+            "两名孩子与保姆"
+          ]
+        ],
+        [
+          "孩子分别是Deirdre和Patrick；家庭合影可核对身份。",
+          "F",
+          [
+            "Deirdre",
+            "母亲邓肯",
+            "Patrick"
+          ]
+        ],
+        [
+          "她自述先告别孩子，返回工作室，随后才听到死讯。",
+          "M328",
+          [
+            "告别孩子",
+            "返回工作室",
+            "获知死讯"
+          ]
+        ],
+        [
+          "她描述自己无法理解发生了什么，起初也没有哭出来。",
+          "M329",
+          [
+            "得知噩耗",
+            "难以理解",
+            "无法哭泣"
+          ]
+        ],
+        [
+          "她后来写下巨大悲痛中“没有姿势、没有表达”的状态。",
+          "M332",
+          [
+            "巨大悲痛",
+            "身体静止",
+            "难以表达"
+          ]
+        ]
+      ],
+      "notes": "5条视频是《母亲》的后人演绎，只能作失去的情绪画面。没有把事故电影片段、现代坠河或陌生孩子当作历史现场。"
+    },
+    {
+      "id": 8,
+      "title": "《母亲》与无法说出的悲伤",
+      "script": "后来，她把这份失去，带进了《母亲》等作品。舞蹈无法把孩子还给她。但那些无法用语言讲清的感受，在身体的动作里，有了表达。",
+      "photos": [
+        "P335",
+        "P245",
+        "P295",
+        "PT",
+        "PS"
+      ],
+      "videos": [
+        115,
+        133,
+        219,
+        14,
+        50
+      ],
+      "shots": [
+        "M21",
+        "M329",
+        "A157",
+        "A187",
+        "A209"
+      ],
+      "texts": [
+        [
+          "基金会将《母亲》和《葬礼进行曲》与她的丧子之痛联系起来。",
+          "F",
+          [
+            "失去",
+            "母亲",
+            "葬礼进行曲"
+          ]
+        ],
+        [
+          "《母亲》使用斯克里亚宾《练习曲》Op.2 No.1。",
+          "UM",
+          [
+            "母亲",
+            "斯克里亚宾",
+            "Op.2 No.1"
+          ]
+        ],
+        [
+          "作品档案描述了向地面下沉及最后伸臂的动作。",
+          "W",
+          [
+            "移动",
+            "下沉",
+            "伸臂"
+          ]
+        ],
+        [
+          "创作与首演的年份记载有差异；可概括为1920年代初，保留“后来”。",
+          "W",
+          [
+            "1913年失去",
+            "时间间隔",
+            "1920年代初作品"
+          ]
+        ],
+        [
+          "她在自传开篇以身体的疲倦和哀痛回望孩子的死亡。",
+          "M21",
+          [
+            "失去孩子",
+            "长久哀痛",
+            "身体感受"
+          ]
+        ]
+      ],
+      "notes": "作品档案列1921编舞、约1923首演；华盛顿大学列约1921。不要写成1913年即时创作，也不要把作品解释成只有一种含义。“舞蹈无法把孩子还给她”是叙述者感受，不是邓肯原话。"
+    },
+    {
+      "id": 9,
+      "title": "生命舒展与悲伤留在身体里",
+      "script": "她曾经让人看见生命怎样舒展，也让人看见，悲伤怎样留在一个人的身体里。这是她的故事里，最打动我的地方。",
+      "photos": [
+        "PL",
+        "PB",
+        "P259",
+        "P245",
+        "P295"
+      ],
+      "videos": [
+        209,
+        116,
+        211,
+        115,
+        130
+      ],
+      "shots": [
+        "A124",
+        "A127",
+        "A157",
+        "M21",
+        "A209"
+      ],
+      "texts": [
+        [
+          "她写过孩子在海边起舞所体现的生命喜悦。",
+          "A124",
+          [
+            "海边",
+            "孩子起舞",
+            "生命喜悦"
+          ]
+        ],
+        [
+          "她把舞蹈与生命的运动联系起来。",
+          "A127",
+          [
+            "自然运动",
+            "呼吸与感受",
+            "生命"
+          ]
+        ],
+        [
+          "自传中，她以手、胸口和眼泪描述长久的哀伤。",
+          "M21",
+          [
+            "胸口",
+            "双手",
+            "长久哀伤"
+          ]
+        ],
+        [
+          "她认为舞蹈应表达生命，而不止展示漂亮动作。",
+          "A209",
+          [
+            "生命",
+            "情绪",
+            "舞蹈表达"
+          ]
+        ],
+        [
+          "《母亲》档案将希望、关怀和失去列为作品中的情感意象。",
+          "W",
+          [
+            "希望",
+            "关怀",
+            "失去"
+          ]
+        ]
+      ],
+      "notes": "可以由《Water Study》或《Seagull》转到《Mother》。这种剪辑是对照表达，不是同一场历史演出的前后顺序。“最打动我的地方”是你的个人判断。"
+    },
+    {
+      "id": 10,
+      "title": "从她的故事到观众的共鸣",
+      "script": "我们也有说不出话的时候。明明很难过，被问起时，却只说了一句“没事”。而看一段舞蹈，有时只是一个低头、一次伸手，就会突然觉得：原来，有人懂得这种感受。",
+      "photos": [
+        "P13",
+        "P245",
+        "P295",
+        "PT",
+        "P335"
+      ],
+      "videos": [
+        115,
+        133,
+        219,
+        14,
+        50
+      ],
+      "shots": [
+        "A157",
+        "A187",
+        "A209",
+        "M329",
+        "M332"
+      ],
+      "texts": [
+        [
+          "邓肯自述在巨大悲痛中一度没有动作、没有表情。",
+          "M332",
+          [
+            "巨大悲痛",
+            "身体静止",
+            "难以表达"
+          ]
+        ],
+        [
+          "她回忆得知死讯时没有哭，反而想安慰身边哭泣的人。",
+          "M329",
+          [
+            "内心震动",
+            "没有哭泣",
+            "安慰他人"
+          ]
+        ],
+        [
+          "《母亲》的传承者把作品的个人经历与亲子关系联系起来。",
+          "W",
+          [
+            "个人经历",
+            "作品",
+            "亲子关系"
+          ]
+        ],
+        [
+          "可用她关于动作语言的文字作相关背景。",
+          "A187",
+          [
+            "语言之外",
+            "动作",
+            "表达的可能"
+          ]
+        ],
+        [
+          "可用《Depth》的内在情绪观点承接这段感受。",
+          "A157",
+          [
+            "内在情绪",
+            "身体节奏",
+            "观众感受"
+          ]
+        ]
+      ],
+      "notes": "这一段的5项文献都是表达主题的相关背景，不能证明“每个人都会共情”。“没事”“原来有人懂得”仍是你的原创共情表达，不是邓肯引语或科学结论。"
+    },
+    {
+      "id": 11,
+      "title": "学校、学生与代际传承",
+      "script": "邓肯开办学校，把自己的探索教给学生。她的作品，经由一代代舞者的传承，延续到了今天。",
+      "photos": [
+        "PN",
+        "PI",
+        "PT",
+        "P73",
+        "PH"
+      ],
+      "videos": [
+        224,
+        179,
+        150,
+        212,
+        213
+      ],
+      "shots": [
+        "A105",
+        "A142",
+        "A187",
+        "M418",
+        "A219"
+      ],
+      "texts": [
+        [
+          "她通过学校把舞蹈理念带给学生；早期学校年份来源存在1904/1905差异。",
+          "I",
+          [
+            "学校",
+            "学生",
+            "传授"
+          ]
+        ],
+        [
+          "她强调帮助孩子创造自己的动作。",
+          "A105",
+          [
+            "教师引导",
+            "孩子感受",
+            "自主动作"
+          ]
+        ],
+        [
+          "Irma Duncan承接教学，并培养下一代舞者。",
+          "IR",
+          [
+            "邓肯",
+            "Irma Duncan",
+            "下一代舞者"
+          ]
+        ],
+        [
+          "Julia Levien教学《母亲》的档案照片能直接呈现传授过程。",
+          "P227",
+          [
+            "Julia Levien",
+            "教授母亲",
+            "Barbara Kane"
+          ]
+        ],
+        [
+          "作品主要经舞者之间的直接传授保存。",
+          "U",
+          [
+            "舞者",
+            "身体传授",
+            "作品延续"
+          ]
+        ]
+      ],
+      "notes": "不要把Irma、Julia或现代儿童的影像标成邓肯本人。1932年新闻片是学生舞团的重要历史影像。"
+    },
+    {
+      "id": 12,
+      "title": "百年之后的赤脚与表达的选择",
+      "script": "一百多年后，我们再看她赤脚站在舞台上的样子，那双脚背后的意义，也就更清楚了。她让舞蹈多了一种表达，让后来的人多了一种选择。快乐可以被看见，悲伤也可以被看见。那些藏在身体里、说不出口的感受，也值得有一个位置。",
+      "photos": [
+        "PB",
+        "PG",
+        "P13",
+        "PL",
+        "PT"
+      ],
+      "videos": [
+        209,
+        115,
+        211,
+        150,
+        213
+      ],
+      "shots": [
+        "A96",
+        "A105",
+        "A157",
+        "A209",
+        "A219"
+      ],
+      "texts": [
+        [
+          "赤脚是她舞蹈主张的可见部分。",
+          "A96",
+          [
+            "赤脚",
+            "身体",
+            "表达"
+          ]
+        ],
+        [
+          "她强调适合个体的动作，给予后来者继续探索的空间。",
+          "A105",
+          [
+            "个体",
+            "自己的动作",
+            "更多选择"
+          ]
+        ],
+        [
+          "她描述海边孩子的舞蹈如何使跳舞的人与观看的人感到喜悦。",
+          "A124",
+          [
+            "孩子起舞",
+            "生命喜悦",
+            "观看的快乐"
+          ]
+        ],
+        [
+          "她把舞蹈视为生命的表达。",
+          "A209",
+          [
+            "生命经验",
+            "身体动作",
+            "被看见"
+          ]
+        ],
+        [
+          "她将舞蹈学校设想为生命的学校，并强调内在生活与想象。",
+          "A219",
+          [
+            "内在生活",
+            "想象",
+            "生命的学校"
+          ]
+        ]
+      ],
+      "notes": "可回到开头同一张赤脚照片，形成首尾呼应。“快乐与悲伤都可以被看见”“感受也值得有一个位置”是你的主题概括，不标“邓肯名言”。"
+    }
+  ],
+  "photos": {
+    "P13": {
+      "title": "邓肯肖像，Arnold Genthe摄影",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=13",
+      "kind": "邓肯本人历史照片",
+      "note": "人物身份与开头、结尾；图注未标拍摄年份",
+      "file": "photos/M13.png"
+    },
+    "P37": {
+      "title": "1896年早期肖像",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=37",
+      "kind": "邓肯本人历史照片",
+      "note": "图注称该照片于1896年4月寄给兄长；不当作成熟舞台时期",
+      "file": "photos/M37.png"
+    },
+    "P43": {
+      "title": "1898年两幅早期照片，Jacob Schloss摄影",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=43",
+      "kind": "邓肯本人历史照片",
+      "note": "原书横向图版，两幅照片合计一项；保留书页原方向",
+      "file": "photos/M43.png"
+    },
+    "P79": {
+      "title": "《仲夏夜之梦》第一仙女角色照",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=79",
+      "kind": "邓肯本人历史照片",
+      "note": "早期戏剧角色，不是她后来独舞风格的证明",
+      "file": "photos/M79.png"
+    },
+    "P97": {
+      "title": "1908年邓肯照片，Elvira摄影",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=97",
+      "kind": "邓肯本人历史照片",
+      "note": "可作人物与服装画面；不是1902年布达佩斯现场",
+      "file": "photos/M97.png"
+    },
+    "P235": {
+      "title": "邓肯与女儿Deirdre，Otto摄影",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=235",
+      "kind": "邓肯本人历史照片",
+      "note": "亲生母女合影；不要与学校学生照混淆",
+      "file": "photos/M235.png"
+    },
+    "P245": {
+      "title": "约1911年的邓肯舞姿",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=245",
+      "kind": "邓肯本人历史照片",
+      "note": "身体向后舒展的横向图版；不是事故后悲痛的现场记录",
+      "file": "photos/M245.png"
+    },
+    "P259": {
+      "title": "邓肯正面肖像，Arnold Genthe摄影",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=259",
+      "kind": "邓肯本人历史照片",
+      "note": "可用于人物面容和情绪转折；不能以表情证明具体事件",
+      "file": "photos/M259.png"
+    },
+    "P285": {
+      "title": "邓肯与儿子Patrick",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=285",
+      "kind": "邓肯本人历史照片",
+      "note": "亲生母子合影；来自书中图版",
+      "file": "photos/M285.png"
+    },
+    "P295": {
+      "title": "邓肯巴黎肖像，Otto摄影",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=295",
+      "kind": "邓肯本人历史照片",
+      "note": "可用于转折；不是事故后现场照片",
+      "file": "photos/M295.png"
+    },
+    "P335": {
+      "title": "邓肯与Deirdre、Patrick两名孩子",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=335",
+      "kind": "邓肯本人历史照片",
+      "note": "亲生子女合影；丧子段优先使用",
+      "file": "photos/M335.png"
+    },
+    "P405": {
+      "title": "邓肯站在帕特农神庙西门",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=405",
+      "kind": "邓肯本人历史照片",
+      "note": "本书图注1920；MoMA相似作品标1921，具体采用来源各自年份",
+      "file": "photos/M405.png"
+    },
+    "P415": {
+      "title": "邓肯在雅典卫城女像柱门廊",
+      "url": "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=415",
+      "kind": "邓肯本人历史照片",
+      "note": "Edward Steichen摄影；作为希腊艺术背景",
+      "file": "photos/M415.png"
+    },
+    "PB": {
+      "title": "1903年维利济户外舞蹈照片",
+      "url": "https://www.bourdelle.paris.fr/en/explorer/collections/museum-and-collections/photograph-collection/isadora-duncan-velizy",
+      "kind": "邓肯本人历史照片",
+      "note": "赤脚、轻薄衣服、户外舞蹈；馆方标注版权保留",
+      "file": ""
+    },
+    "PL": {
+      "title": "1903年威尼斯丽都海滩照片",
+      "url": "https://www.isadoraduncanarchive.org/collection/archives/347",
+      "kind": "邓肯本人历史照片",
+      "note": "Raymond Duncan摄影；海边与自然段优先",
+      "file": ""
+    },
+    "PN": {
+      "title": "邓肯与巴黎学校十三名学生",
+      "url": "https://old-digitalcollections.nypl.org/items/8ced92f9-1d99-7665-e040-e00a18061a82",
+      "kind": "邓肯与学生历史照片",
+      "note": "Paul Berger摄影，NYPL标1910—1920；不是亲生孩子",
+      "file": ""
+    },
+    "PG": {
+      "title": "1907年希腊式长袍背影",
+      "url": "https://commons.wikimedia.org/wiki/File:Isadora_Duncan_(NYPL_b12149469-5189779).jpg",
+      "kind": "邓肯本人历史照片",
+      "note": "NYPL原藏；此镜像页提供原图，标注美国公版",
+      "file": ""
+    },
+    "PM": {
+      "title": "帕特农神庙中的邓肯，1921",
+      "url": "https://www.moma.org/collection/works/47005",
+      "kind": "邓肯本人历史照片",
+      "note": "MoMA藏Steichen作品；馆方标权利管理",
+      "file": ""
+    },
+    "PC": {
+      "title": "邓肯肖像，国会图书馆",
+      "url": "https://www.loc.gov/item/2018704304/",
+      "kind": "邓肯本人历史照片",
+      "note": "Genthe底片摄于1916—1918；网页抓取间歇403，检索记录已核对",
+      "file": ""
+    },
+    "PT": {
+      "title": "Julia Levien教授《母亲》",
+      "url": "https://www.isadoraduncanarchive.org/collection/archives/227",
+      "kind": "后人教学照片",
+      "note": "Julia Levien与Barbara Kane；不是邓肯本人",
+      "file": ""
+    },
+    "PI": {
+      "title": "Isadorables学生群像",
+      "url": "https://www.isadoraduncanarchive.org/collection/archives/18",
+      "kind": "学生历史照片",
+      "note": "Arnold Genthe摄影；学生与传承段",
+      "file": ""
+    },
+    "P73": {
+      "title": "1973年Irma Duncan工作坊照片",
+      "url": "https://www.isadoraduncanarchive.org/collection/archives/365",
+      "kind": "后人教学照片",
+      "note": "Irma、Mignon Garland及舞者；不是邓肯在世时的学校",
+      "file": ""
+    },
+    "PH": {
+      "title": "1930年代初古巴演出舞者合影",
+      "url": "https://www.isadoraduncanarchive.org/collection/archives/388",
+      "kind": "后人历史照片",
+      "note": "Irma Duncan舞团；用于延续与传播",
+      "file": ""
+    },
+    "PE": {
+      "title": "古希腊披纱舞者青铜像",
+      "url": "https://www.metmuseum.org/art/collection/search/255408",
+      "kind": "背景文物图",
+      "note": "公元前3—2世纪；不能说邓肯研究过这件具体藏品，馆方标Public Domain",
+      "file": ""
+    },
+    "PS": {
+      "title": "John Sloan《Isadora Duncan》，1915",
+      "url": "https://www.metmuseum.org/art/collection/search/367887",
+      "kind": "艺术家创作图像",
+      "note": "蚀刻版画，不是摄影；馆方页面标权利管理",
+      "file": ""
+    },
+    "PA": {
+      "title": "1938年《天鹅湖》舞台照",
+      "url": "https://www.sadlerswells.com/discover-dance/more-about-dance/ballet/",
+      "kind": "芭蕾背景照片",
+      "note": "Margot Fonteyn和Robert Helpmann；比1902年晚，不能当作当年现场",
+      "file": ""
+    }
+  },
+  "videos": {
+    "115": {
+      "title": "Mother／母亲",
+      "year": "2014",
+      "who": "Kelli Edwards",
+      "url": "https://www.isadoraduncanarchive.org/video/115",
+      "play": "https://www.youtube.com/watch?v=kbyb-74FNHI",
+      "note": "档案标完整作品；失去、下沉与伸手的参考"
+    },
+    "133": {
+      "title": "Mother／母亲",
+      "year": "1992",
+      "who": "Adrienne Ramm",
+      "url": "https://www.isadoraduncanarchive.org/video/133",
+      "play": "https://www.youtube.com/watch?v=KZZ9JcfPwXk",
+      "note": "档案标完整作品；同一作品的另一位传承者"
+    },
+    "219": {
+      "title": "The Mother／母亲",
+      "year": "1992",
+      "who": "Gemze de Lappe",
+      "url": "https://www.isadoraduncanarchive.org/video/219",
+      "play": "https://www.youtube.com/watch?v=jDnJQx9xaCM",
+      "note": "档案起点00:02；Smith College演出"
+    },
+    "14": {
+      "title": "Mother and Revolutionary",
+      "year": "1997",
+      "who": "Patricia Adams",
+      "url": "https://www.isadoraduncanarchive.org/video/14",
+      "play": "https://www.youtube.com/watch?v=-Ra19kIOFCo",
+      "note": "档案《母亲》00:00；《革命者》03:32，注意作品切换"
+    },
+    "50": {
+      "title": "Repertory Dance Company：Mother",
+      "year": "页面未标年",
+      "who": "舞团，具体舞者未标",
+      "url": "https://www.isadoraduncanarchive.org/video/50",
+      "play": "https://www.youtube.com/watch?v=nUvaraDf_3Y",
+      "note": "不补写未知年份和舞者；《母亲》的第五条独立录像"
+    },
+    "209": {
+      "title": "Water Study／水的习作",
+      "year": "2017年4月",
+      "who": "Hannah Brooks-Motl、Ingrid Becker；Jennifer Sprowl重排",
+      "url": "https://www.isadoraduncanarchive.org/video/209",
+      "play": "https://vimeo.com/245514605",
+      "note": "后人重排为双人版本；不能当作原作唯一动作版本"
+    },
+    "213": {
+      "title": "Water Study：国际研讨会",
+      "year": "2017-08-11",
+      "who": "多位邓肯舞传承者",
+      "url": "https://www.isadoraduncanarchive.org/video/213",
+      "play": "https://www.youtube.com/watch?v=NiK6ip9OJX8",
+      "note": "即兴聚会中共同演绎；适合自然与传承"
+    },
+    "114": {
+      "title": "Water Study：两位传承者",
+      "year": "2007",
+      "who": "Elisabeth Schwartz、Catherine Gallant",
+      "url": "https://www.isadoraduncanarchive.org/video/114",
+      "play": "https://www.youtube.com/watch?v=MuLCtsSLvn8",
+      "note": "可看同一作品的身体表达"
+    },
+    "212": {
+      "title": "Water Study：两个版本同时呈现",
+      "year": "2005",
+      "who": "Catherine Gallant、Elisabeth Schwartz",
+      "url": "https://www.isadoraduncanarchive.org/video/212",
+      "play": "https://www.youtube.com/watch?v=A2mYOQs_RTo",
+      "note": "同台不同版本，适合传承比较"
+    },
+    "58": {
+      "title": "Gemze performs Water Study",
+      "year": "页面未标年",
+      "who": "Gemze de Lappe",
+      "url": "https://www.isadoraduncanarchive.org/video/58",
+      "play": "https://www.youtube.com/watch?v=BtAaeC-BFVc",
+      "note": "自然主题动作；年份不作推断"
+    },
+    "116": {
+      "title": "Seagull／海鸥",
+      "year": "2014",
+      "who": "Irene Lutts",
+      "url": "https://www.isadoraduncanarchive.org/video/116",
+      "play": "https://www.youtube.com/watch?v=ndeYtkX_HLw",
+      "note": "自然意象，音乐为Brahms Op.39 No.8"
+    },
+    "123": {
+      "title": "Classical Duet／古典双人舞",
+      "year": "2014",
+      "who": "Patricia Adams、Catherine Gallant",
+      "url": "https://www.isadoraduncanarchive.org/video/123",
+      "play": "https://www.youtube.com/watch?v=sDioha_LdpI",
+      "note": "希腊主题与双人关系的动作参考"
+    },
+    "130": {
+      "title": "Funeral March／葬礼进行曲",
+      "year": "2014",
+      "who": "Patricia Adams",
+      "url": "https://www.isadoraduncanarchive.org/video/130",
+      "play": "https://www.youtube.com/watch?v=nkDqarChjIM",
+      "note": "肖邦Op.35第三乐章；与《母亲》不是同一作品"
+    },
+    "211": {
+      "title": "Scherzo节选",
+      "year": "2017-06-19",
+      "who": "Lori Belilove舞团频道",
+      "url": "https://www.isadoraduncanarchive.org/video/211",
+      "play": "https://www.youtube.com/watch?v=ieKvdPD1e2o",
+      "note": "档案标群舞段，起点00:17；适合舒展与群体生命力"
+    },
+    "7": {
+      "title": "Scherzo",
+      "year": "2004",
+      "who": "Catherine Gallant等六位舞者",
+      "url": "https://www.isadoraduncanarchive.org/video/7",
+      "play": "https://www.youtube.com/watch?v=tDdKL00ciws",
+      "note": "后人群舞；作为舞台与身体语言示例"
+    },
+    "150": {
+      "title": "Children’s Repertory／儿童作品集",
+      "year": "2012",
+      "who": "Dance Visions NY Youth Company",
+      "url": "https://www.isadoraduncanarchive.org/video/150",
+      "play": "https://www.youtube.com/watch?v=j2WIpgVBNok",
+      "note": "档案定位：01:44 Polka、03:50双人舞、12:33 Water Study"
+    },
+    "179": {
+      "title": "儿童节奏课堂",
+      "year": "1980",
+      "who": "Mignon Garland的学生",
+      "url": "https://www.isadoraduncanarchive.org/video/179",
+      "play": "https://www.youtube.com/watch?v=yc9ivaiwwdc",
+      "note": "华尔兹与gallop；档案03:41为Gallop，不是邓肯本人授课"
+    },
+    "224": {
+      "title": "Irma Duncan Dancers at Untermeyer",
+      "year": "1932-06-11",
+      "who": "Irma舞团，含Hortense Kooluris等",
+      "url": "https://www.isadoraduncanarchive.org/video/224",
+      "play": "https://www.youtube.com/watch?v=HF1l_0vVFTg",
+      "note": "新闻纪录片；邓肯逝世后的学生舞团，档案起点00:07"
+    }
+  },
+  "sources": {
+    "B": [
+      "布德尔博物馆：1903年维利济照片",
+      "https://www.bourdelle.paris.fr/en/explorer/collections/museum-and-collections/photograph-collection/isadora-duncan-velizy"
+    ],
+    "D": [
+      "Mary Sano Studio：邓肯生平",
+      "https://duncandance.org/isadora-duncan/"
+    ],
+    "F": [
+      "Isadora Duncan Company：生平",
+      "https://www.isadoraduncan.org/about-1"
+    ],
+    "I": [
+      "Isadora Duncan Archive：人物与传承",
+      "https://www.isadoraduncanarchive.org/dancer/1/"
+    ],
+    "U": [
+      "华盛顿大学舞蹈系：人物与作品",
+      "https://dance.washington.edu/people/isadora-duncan"
+    ],
+    "W": [
+      "邓肯档案：《母亲》作品条目",
+      "https://www.isadoraduncanarchive.org/repertory/38/"
+    ],
+    "UM": [
+      "华盛顿大学：《母亲》演出与作品信息",
+      "https://dance.washington.edu/research/creative-work/mother-0"
+    ],
+    "IR": [
+      "邓肯档案：Irma Duncan",
+      "https://www.isadoraduncanarchive.org/dancer/2/"
+    ],
+    "JL": [
+      "邓肯档案：Julia Levien",
+      "https://www.isadoraduncanarchive.org/dancer/17/"
+    ],
+    "BA": [
+      "Sadler’s Wells：芭蕾简史",
+      "https://www.sadlerswells.com/discover-dance/more-about-dance/ballet/"
+    ],
+    "ME": [
+      "大都会博物馆：披纱舞者青铜像",
+      "https://www.metmuseum.org/art/collection/search/255408"
+    ],
+    "P227": [
+      "Julia Levien教Barbara Kane《母亲》的照片",
+      "https://www.isadoraduncanarchive.org/collection/archives/227"
+    ],
+    "OWN": [
+      "用户原稿／编辑表达",
+      ""
+    ],
+    "M21": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第21页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=21"
+    ],
+    "M24": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第24页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=24"
+    ],
+    "M39": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第39页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=39"
+    ],
+    "M77": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第77页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=77"
+    ],
+    "M101": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第101页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=101"
+    ],
+    "M124": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第124页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=124"
+    ],
+    "M125": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第125页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=125"
+    ],
+    "M126": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第126页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=126"
+    ],
+    "M132": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第132页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=132"
+    ],
+    "M328": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第328页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=328"
+    ],
+    "M329": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第329页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=329"
+    ],
+    "M330": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第330页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=330"
+    ],
+    "M331": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第331页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=331"
+    ],
+    "M332": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第332页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=332"
+    ],
+    "M418": [
+      "《My Life》1927年作品；此扫描本为1928年印次 · PDF第418页",
+      "https://archive.org/download/mylife0000unse_a0f0/mylife0000unse_a0f0.pdf#page=418"
+    ],
+    "A96": [
+      "《The Art of the Dance》1928年版 · PDF第96页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=96"
+    ],
+    "A97": [
+      "《The Art of the Dance》1928年版 · PDF第97页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=97"
+    ],
+    "A100": [
+      "《The Art of the Dance》1928年版 · PDF第100页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=100"
+    ],
+    "A104": [
+      "《The Art of the Dance》1928年版 · PDF第104页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=104"
+    ],
+    "A105": [
+      "《The Art of the Dance》1928年版 · PDF第105页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=105"
+    ],
+    "A117": [
+      "《The Art of the Dance》1928年版 · PDF第117页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=117"
+    ],
+    "A124": [
+      "《The Art of the Dance》1928年版 · PDF第124页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=124"
+    ],
+    "A127": [
+      "《The Art of the Dance》1928年版 · PDF第127页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=127"
+    ],
+    "A142": [
+      "《The Art of the Dance》1928年版 · PDF第142页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=142"
+    ],
+    "A147": [
+      "《The Art of the Dance》1928年版 · PDF第147页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=147"
+    ],
+    "A157": [
+      "《The Art of the Dance》1928年版 · PDF第157页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=157"
+    ],
+    "A187": [
+      "《The Art of the Dance》1928年版 · PDF第187页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=187"
+    ],
+    "A209": [
+      "《The Art of the Dance》1928年版 · PDF第209页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=209"
+    ],
+    "A219": [
+      "《The Art of the Dance》1928年版 · PDF第219页",
+      "https://archive.org/download/artofdancebyisad00dunc/artofdancebyisad00dunc.pdf#page=219"
+    ]
+  }
+}
